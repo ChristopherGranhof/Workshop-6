@@ -179,7 +179,70 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: Pick up the coins, for fun
+=======
+  m_text: 'Pick up the coins, for fun,
+
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Sed tortor quam, suscipit at auctor et, fermentum ut odio. Fusce
+    dolor tellus, facilisis eget venenatis eget, dapibus eget enim. Nulla pretium
+    ante quis velit vestibulum molestie. Cras lacinia, lectus porttitor lobortis
+    pretium, felis ex tristique lacus, sed luctus mauris sem nec tortor. Praesent
+    euismod volutpat aliquet. Vivamus non turpis est. Nunc porta nulla vel sapien
+    gravida, quis iaculis ipsum faucibus. Vivamus eu augue vitae ante finibus facilisis.
+
+
+
+    Nulla
+    eu imperdiet ligula. Proin quis elementum leo. Cras porta tincidunt neque, non
+    venenatis neque viverra sit amet. Ut condimentum tortor et purus viverra, eu
+    euismod ligula mattis. Etiam cursus turpis eu nunc pellentesque dictum. In vehicula
+    enim finibus libero porta, a vulputate risus auctor. Integer consectetur sagittis
+    feugiat. Suspendisse potenti. Sed velit felis, sagittis et ornare sit amet, malesuada
+    vitae diam. Pellentesque suscipit accumsan porttitor. Nam consectetur est ut
+    suscipit dictum. Suspendisse elit quam, luctus ac hendrerit eget, molestie non
+    ipsum. Nam fringilla quam non ante rutrum, non scelerisque odio tempus.
+
+
+
+    Cras
+    dui nunc, aliquet ac sem gravida, rutrum consectetur metus. Mauris tincidunt
+    elit ut risus faucibus consectetur. Sed iaculis lacus massa, quis dictum enim
+    hendrerit sed. Morbi vulputate tristique enim, nec imperdiet est efficitur a.
+    Morbi at erat porta, eleifend justo tempus, placerat quam. Sed vestibulum, lectus
+    at dapibus finibus, urna dolor ornare leo, vitae interdum nisi nulla at ligula.
+    Sed enim augue, iaculis vitae leo a, sagittis aliquam ex. Pellentesque tempor
+    congue turpis, congue suscipit lectus fermentum et. Cras pharetra eros felis,
+    vel lacinia ipsum tincidunt eget. Quisque commodo ut risus sed tristique. Integer
+    a erat velit. Curabitur vitae tristique ante. Nam at magna nulla. Donec fermentum,
+    est lacinia faucibus consequat, massa est eleifend elit, id vestibulum nibh nulla
+    sed lacus. Sed et consectetur metus. Cras volutpat, magna vitae semper interdum,
+    ante urna venenatis lectus, a commodo ipsum nulla ut est.
+
+
+
+    In fermentum
+    efficitur risus, venenatis ultricies lacus volutpat nec. Vivamus pellentesque
+    nisi eget ipsum varius feugiat. Aliquam nec elit orci. Aenean blandit ultricies
+    accumsan. In hac habitasse platea dictumst. Cras gravida at tellus tempus fermentum.
+    Cras viverra a nibh eu tempus. Nam egestas dolor ex.
+
+
+
+    Pellentesque habitant
+    morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque
+    vehicula feugiat nunc ut dictum. Phasellus pretium, enim ac imperdiet egestas,
+    nisl ante commodo diam, sit amet scelerisque nisi lorem non neque. Aliquam nec
+    sem at odio venenatis sagittis in convallis enim. Donec placerat faucibus lacus
+    non sodales. Nam lacinia, orci in feugiat suscipit, urna felis ultrices dolor,
+    sit amet tempus purus nunc et velit. Curabitur ligula massa, dignissim non erat
+    eu, vehicula mattis turpis. Nulla facilisi. Praesent a volutpat lectus. Etiam
+    ullamcorper, dolor a pretium aliquet, tortor tortor sodales turpis, eu viverra
+    tellus urna vel nisi. Vestibulum sodales placerat dolor eu scelerisque. Etiam
+    scelerisque ipsum id diam pretium, eu ullamcorper metus imperdiet. Morbi laoreet
+    iaculis libero.'
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
